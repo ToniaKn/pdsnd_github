@@ -181,6 +181,7 @@ def user_stats(df,city):
 
 
 def display_data_function(df, city):
+    """Displays raw data upon user request - 5 Rows per time"""
 
     show_5_first = input('\nWould you like to see raw data? Enter yes or no.\n')
     if show_5_first.lower() == 'yes':
