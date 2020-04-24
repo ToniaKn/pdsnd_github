@@ -15,5 +15,5 @@ washington.csv
 
 ### Credits
 https://www.udacity.com/
-
-
+https://git-scm.com/docs
+https://docs.scipy.org/doc/
